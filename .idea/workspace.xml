@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd55775-2f6e-4b60-a727-8c576e0913c5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/links.hbs" afterPath="$PROJECT_DIR$/partials/links.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-114x114.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-120x120.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-120x120.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-144x144.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-152x152.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-152x152.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-180x180.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-180x180.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-57x57.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-57x57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-60x60.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-60x60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-72x72.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-76x76.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-76x76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicon-16x16.png" afterPath="$PROJECT_DIR$/assets/img/favicon-16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicon-32x32.png" afterPath="$PROJECT_DIR$/assets/img/favicon-32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicon-96x96.png" afterPath="$PROJECT_DIR$/assets/img/favicon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicon.ico" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/mstile-144x144.png" afterPath="$PROJECT_DIR$/assets/img/mstile-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/mstile-150x150.png" afterPath="$PROJECT_DIR$/assets/img/mstile-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/mstile-310x150.png" afterPath="$PROJECT_DIR$/assets/img/mstile-310x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/mstile-310x310.png" afterPath="$PROJECT_DIR$/assets/img/mstile-310x310.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/mstile-70x70.png" afterPath="$PROJECT_DIR$/assets/img/mstile-70x70.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/browserconfig.xml" afterPath="$PROJECT_DIR$/assets/img/browserconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/meta.hbs" afterPath="$PROJECT_DIR$/partials/meta.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uno-zen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +55,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="links.hbs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/partials/links.hbs">
+      <file leaf-file-name="meta.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partials/meta.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15129682" vertical-offset="0" max-vertical-offset="694">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6051873" vertical-offset="0" max-vertical-offset="694">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -49,6 +78,8 @@
         <option value="$PROJECT_DIR$/partials/aside.hbs" />
         <option value="$PROJECT_DIR$/partials/social.hbs" />
         <option value="$PROJECT_DIR$/partials/links.hbs" />
+        <option value="$PROJECT_DIR$/assets/img/manifest.json" />
+        <option value="$PROJECT_DIR$/partials/meta.hbs" />
       </list>
     </option>
   </component>
@@ -128,6 +159,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uno-zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uno-zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,12 +261,12 @@
       <created>1425481129894</created>
       <option name="number" value="Default" />
       <updated>1425481129894</updated>
-      <workItem from="1425481110102" duration="682000" />
+      <workItem from="1425481110102" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="682000" />
+    <option name="totallyTimeSpent" value="1780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="741" extended-state="6" />
@@ -314,6 +363,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15129682" vertical-offset="0" max-vertical-offset="694">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/cover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/astronaut.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4589708" vertical-offset="0" max-vertical-offset="719">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Sabbir's Blog&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-36x36.png&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-48x48.png&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-72x72.png&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-96x96.png&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-144x144.png&quot;...}" />
+            <marker date="1425482854000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: &quot;\/android-chrome-192x192.png&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="719">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="706">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/meta.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6051873" vertical-offset="0" max-vertical-offset="525">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding />
         </state>
       </provider>
